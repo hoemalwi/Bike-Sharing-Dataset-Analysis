@@ -15,4 +15,4 @@ streamlit dashboard/dashboard.py
 ```
 
 ## Dashboard deployment URL
-[hoemalwi-bike-sharing-dataset-analysi-dashboarddashboard-uft1zj.streamlit.app]
+[hoemalwi-bike-sharing-dataset-analysis-dashboard.streamlit.app](https://hoemalwi-bike-sharing-dataset-analysi-dashboarddashboard-uft1zj.streamlit.app/)
